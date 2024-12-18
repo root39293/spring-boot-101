@@ -5,6 +5,7 @@ Spring Boot 학습 내용을 정리하는 저장소
 ## Contents
 
 1. [12월 18일](2024/1218/README.md)
+2. [12월 19일](2024/1219/README.md)
 
 
 ## To do list
